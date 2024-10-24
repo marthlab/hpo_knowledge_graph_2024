@@ -1,0 +1,5 @@
+data_files/
+__pycache__/
+.vscode/
+unused_files/
+Miniforge3-Linux-x86_64.sh
